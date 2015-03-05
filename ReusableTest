@@ -1,0 +1,7 @@
+//Prueba satinfactoria para la clase Reusable.java
+
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ReusableTest" project="PracticaC01" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="ubu.gii.dass.test.c01.ReusableTest" time="0.0">
+    <testcase name="testUtil" classname="ubu.gii.dass.test.c01.ReusableTest" time="0.0"/>
+  </testsuite>
+</testrun>
